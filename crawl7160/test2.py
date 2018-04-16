@@ -1,6 +1,8 @@
 #coding=utf-8
 import random
 import urllib.request
+
+import pymysql
 from bs4 import BeautifulSoup
 from urllib import error
 import re
@@ -15,6 +17,9 @@ category = 'lianglichemo'
 start = 1
 end = 100000
 max_files = "50000";
+
+
+
 
 def mkdir(path):
     path = path.strip()
@@ -39,17 +44,15 @@ def get_total_files(mkpath):
 def save_img(title,src,):
     file_name = validateTitle(title) + ".jpg"
 
-    for i in range(1,51):
-        temp = "d:\\imgs\\img" + str(i) + "\\"
-        total_files = get_total_files(temp)
-        if(int(total_files) <=  int(max_files)):
-            file_number = i
-            break
-
-    mkpath = "d:\\imgs\\img"+str(file_number)+"\\"
-    mkdir(mkpath)
-    urllib.request.urlretrieve(src, mkpath + file_name)
-    print(mkpath+file_name + "保存成功")
+    #改为保存 到数据库
+    conn = pymysql.connect(host='192.168.33.30', port=3306, user='root', passwd='root', db='test', charset='utf8')
+    cursor = conn.cursor()
+    sql = "INSERT INTO imgs(title,url) VALUES ('%s', '%s')" % (str(file_name),str(src))
+    cursor.execute(sql)
+    conn.commit()
+    cursor.close()
+    conn.close()
+    print("保存成功")
 
 
 

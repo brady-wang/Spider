@@ -14,7 +14,7 @@ import os
 category = 'rentiyishu'
 start = 1
 end = 100000
-max_files = "10000";
+max_files = "50000";
 
 def mkdir(path):
     path = path.strip()
