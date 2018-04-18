@@ -12,8 +12,8 @@ dirNum = 0
 import os
 #ls = ['zhenrenxiu','meinv',"lianglichemo",'rentiyishu','xiaohua']
 category = 'meinv'
-start = 1048
-end = 100000
+start = 41215
+end = 45000
 max_files = "50000";
 
 def mkdir(path):

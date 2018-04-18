@@ -14,7 +14,7 @@ dirNum = 0
 import os
 #ls = ['zhenrenxiu','meinv',"lianglichemo",'rentiyishu','xiaohua']
 category = 'meinv'
-start = 1
+start = 1030
 end = 100000
 max_files = "50000";
 
