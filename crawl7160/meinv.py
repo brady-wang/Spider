@@ -12,9 +12,9 @@ dirNum = 0
 import os
 #ls = ['zhenrenxiu','meinv',"lianglichemo",'rentiyishu','xiaohua']
 category = 'meinv'
-start = 41215
-end = 45000
-max_files = "50000";
+start = 47425
+end = 50000
+max_files = "20000";
 
 def mkdir(path):
     path = path.strip()
@@ -38,7 +38,6 @@ def get_total_files(mkpath):
 
 def save_img(title,src,):
     file_name = validateTitle(title) + ".jpg"
-
     for i in range(1,51):
         temp = "d:\\imgs\\img" + str(i) + "\\"
         total_files = get_total_files(temp)
@@ -49,14 +48,14 @@ def save_img(title,src,):
     mkpath = "d:\\imgs\\img"+str(file_number)+"\\"
     mkdir(mkpath)
     urllib.request.urlretrieve(src, mkpath + file_name)
-    print(mkpath+file_name + "保存成功")
+    print(mkpath+ "保存成功")
 
 
 
 
 def get_total_page(url_origin):
     page_obj = urllib.request.urlopen(url_origin)
-    page_soup = BeautifulSoup(page_obj, 'lxml')
+    page_soup = BeautifulSoup(page_obj, 'html5lib')
     total_page_obj = page_soup.find(text=re.compile('共')).string
     pattern = re.compile(r'\d+')
     match = pattern.search(total_page_obj)
@@ -71,14 +70,12 @@ for j in range(start,end):
    url_origin = "http://www.7160.com/"+category+"/"+str(j)
    try:
       total_page = get_total_page(str(url_origin))
-
       for i in range(1,int(total_page)+1):
          if i == 1 :
             url = url_origin+"/index.html"
          else:
             url = url_origin+"/index_"+str(i)+".html"
          request = urllib.request.Request(url)
-
          res = urllib.request.urlopen(request)
          soup = BeautifulSoup(res,'lxml')
          title_obj = soup.find(attrs={"class":"picmainer"})

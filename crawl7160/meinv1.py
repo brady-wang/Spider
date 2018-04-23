@@ -49,7 +49,7 @@ def save_img(title,src,):
     mkpath = "d:\\imgs\\img"+str(file_number)+"\\"
     mkdir(mkpath)
     urllib.request.urlretrieve(src, mkpath + file_name)
-    print(mkpath+file_name + "保存成功")
+    #print(mkpath+file_name + "保存成功")
 
 
 
