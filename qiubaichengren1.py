@@ -8,7 +8,7 @@ from lxml import etree
 
 try:
     def all_links(url):
-        if "100.html" in url:
+        if "900.html" in url:
             print("结束");
             return None
         response = requests.get(url)
@@ -30,10 +30,9 @@ try:
         if len(links) < 1:
             pass
         else:
-            sleep(5)
             host = 'http://www.qiubaichengren.net/'
             new_url = host + links[0];
             all_links(new_url)
-    all_links("http://www.qiubaichengren.net/8.html")
+    all_links("http://www.qiubaichengren.net/356.html")
 except Exception as e:
     print(str(e))

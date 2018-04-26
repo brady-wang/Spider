@@ -2,17 +2,169 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cd8cc1a-d5a2-4372-98b0-afa0c2b505f3" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movie/movie/spiders/Meijuspider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiubai.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiubaichengren.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiubaichengren1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/spider.iml" afterPath="$PROJECT_DIR$/.idea/spider.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ganji.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proxy_ip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pygal_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svg1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_chemy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_sql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ua.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xpath_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xpath_test1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xpath_test2.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/005GRsDJgw1emgeqnspu2g308206gu0y.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/005IYPIXjw1eqb9g8toclg30b4061qv6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006DYyUTgy1fq3inmbyzjj30qo0qo45n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006E1Cocly1fp84no69g9j30ij0rswg0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006HcaCrgy1fq5lxbz3faj30hs0m83zi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006QdrENgy1fpzy27vs27j30lv0rc75d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006VBrR5gy1fp96k9on0cj30qo1beafi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XNEY7gy1fpl1g4y1dej30ku0fndi5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XNEY7gy1fplxrl06l8j30ku0flwhg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XNEY7gy1fq2bftd2q7j31kw23vx6p.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XNEY7gy1fq7hqdxe5tg305k077qv5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XNEY7gy1fq9kcumkmhj30k00zktav.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XNEY7gy1fqap1z05rqj30dz0tdabj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XNEY7gy1fqfsnu57dzj30b408caak.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XfbArly1fpgyde2uxrj30qo0zi0x2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XfbArly1fprw8mwwgaj30qo0zkwj8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XfbArly1fpxulu7zyej30np0zkai5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XfbArly1fpzkl4n178j30qo0zkdpl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006XfbArly1fq1kyfp9krj30ku0qih5y.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006Zw0rfgy1fphvmxbo5jj30m80zkdmg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006ed3Amly1fpt2qb3ujhj30qo0zkdkh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006g87eSgy1fpjglqxmhrg307e05kkjn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006mQWFhly1fpu8w9z9u9j30qn0qn76t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/006wCjeSly1fmigdz2cxmj30j60n3ahn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0071FFlvgy1fppqqwam4lg30f40qokjx.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0071FFlvgy1fq7dwih1upj30u013zdjn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0071FFlvgy1fq7rwkwr7zg30f00qo7wq.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fohyohzqdyg305t09qe81.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fp9c53quhgj30x40x2grr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fp9ptkxfirg308w06oe83.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpddyhw426j30fa0mx75t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpeahkeye5j30hs0n6goy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpgv3dpl17j30dw0jtgn1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fph7fb1jr4g305006y1kx.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fphd4jpfwxj30go103b2c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fphdltz12aj30u011i0wn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fplpgxaemuj31kw23v1kx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fppuos4xajj31921o31kx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fprmc8a3cpj30hs0hsq4n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpsf8iboodj30m80w2n2a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fptvshvemij30c80gbgmm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpuinep54hj30gj0oewga.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpuukaqu31g30ay0jk4qv.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpx4v6g872j30b10gnacb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpx91ehp3ij30f00f4q4g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpxxvu2iu7j30l70qon28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpxy6je6fxj30du0kudhd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpxywcnnarj31ca20ekjm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpzokww4bvj30kd0sg77t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpzqum4g8uj30hs0qn0vc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fpzv8tdj6zj30u00u0wik.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fq5m86ub3qg306y0amu0y.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fq5q9qx2zfj30u00mijtm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fq6rsvk0nqj30u00vftcz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fq7e123pi3j30go0og418.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fq7hl2p86zj30p00goq5d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fq9q9ey0guj30qp0zkq5q.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqapge5huzj30f20qognf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqd92o99coj30go0ofjtc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqda2etf33j30j50m8417.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqg29goul5j30fk0bodgs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqiiodxwlhj30k00k2gm1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqlby1ai1fg308r0fke87.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqleq2yu1zj30qo1digr9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073ob6Pgy1fqllxcrquhj30gx0rqtb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fp93q7o37ij30ia0mt75s.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fpbzjs6ca2j30if0pi41b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fpdw590idrj30u011iq8d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fph2imn7bfj314u1igjx0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fpj7wthr7xj30fa0kddi4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fpp0cfzif6j30af0dwwfo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fpru6guvk6j30hq0qo0vu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fptvsj5zalg309e0gox6t.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fqap254ew1j30dw0g1my9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fqapgpyu5tj30hs0qojud.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fqdwxwn9cuj30go0gbn02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tLPGgy1fqiezcmw6oj30zk1ea7co.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073tX1Mgy1fosf0myywcj30zj1hctlm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0073y1vFly1fpbao0ae9ij30jg0t60v0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/00746bMbgy1foihun0dw6j325y2pehdy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0074WDmsly1foqw69pq4fg308o0fonpe.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0074WDmsly1fpz57ozmyxj30h80lhjth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fpxaje1tqjj30ia0mm0w8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fq1xpf4o5vj30eo0k0dhc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fq25kfwnrnj30f70lv0w8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fq55o9ozfij30v71hcn3k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fq62ksji4sj30g40ovwhf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fqds4sal2tj30jg0t6q98.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fqdu0girh8j30zk1hc7cj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fqduadmfy3j30hg0lswg6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fqfyvig6okj30ia0rj0w6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fqikmkh8s5j30ff0naqoz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0076BSS5ly1fqilak5of8j30j60vytd0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fp9oc1g7wxj20hs0hst9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fpdln1ouy0j20hs0hsab9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fpdlpnq8bpg20g70k8qvb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fpdn6gix2kg20g70k84qx.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fplkj9x55uj20hs0hs0um.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fprthc0heyj20qn0wfah0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fprti6bqwtj20hs0hs756.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fq5e9xcc3tj20dc0go0u6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/46401622gy1fq7dqavcgnj20rv0rvjvd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4a03611cgy1fpqjo3gm38j20gh0m7dhp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4a03611cgy1fq5j9c5qzcg206j0bo1kz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4a03611cgy1fqia30ow51j20cc0ccmzr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4a3ecd39ly1fqlgkf7nzuj20sw0xbad0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/53f0318dly1fqfrfrgkahg20b404be86.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/63797ceely1fplrbv0cdfj20zk1hcgrv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/648e65caly1fpjhvgggz5j20tu18rwvf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/661eb95cgy1foyfifdcdpj20m80tmtbc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/661eb95cgy1fphv9yqwrig20jk0gke8c.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/661eb95cgy1fphvadluq3g20gl0cee87.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/661eb95cgy1fphvbrm1veg20e00iinpk.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/661eb95cgy1fphvcoz5avg20cl0a3e82.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/661eb95cly1fox6b1z4dsj20go0gowix.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/66c4947egy1fql6firn7hg209p0gjhdz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6ec0fa52gy1fpj3i01jimg20a006onpd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6f4c5371gy1fpbmpxrdsgj20ia0uimzp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6f4c5371gy1fpbmq937ucg2065074hdt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7469842cgy1fphax4fg87j20ka0beahm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/74c195efgy1fqlpotc0p1j20sg0izn3g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/77d25f5bly1fpliw11wq7j20u01hchdt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7b386511gy1fqe4xgz82lj20h30s3mzw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7d74ebd1ly1fqi8m95shpg203s06su13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7dad40ddgy1fpreh8zxvsg20a80db1l3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7dd587edly1fplk03w40wg206w078npd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/82e98952gy1fpzvwww9ldj20qp0zkdjr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/82e98952gy1fqibuyimczg20860feu0y.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/82e98952ly1fp8nyonwqyj20f00k075c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/82e98952ly1fp8nz9yoiyj20td0zkwj1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/82e98952ly1fpbpkx0udfj20dw0jg3zo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/82e98952ly1fpbpm1x30bj20jg16on18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/87a8e3e8ly1fppjbilql3j20et0m8765.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/87a8e3e8ly1fppjd9g95nj20m80tnadw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/87a8e3e8ly1fppjdj69tij20lc0sgjua.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/87dfc041ly1fq5qab1627j20xc1cw44f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8a3af135ly1fmgq0agoxpj20s40zae81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8b74f69fgy1fpzw1s1mwnj20go0oy3zh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8c277417gy1fqdl4p3hdjg20650a8b2g.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8d611903ly1fqflw3bjbnj215c1j4npd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/940d0fb0ly1fq0qfhi0oej20qo0f0tej.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/9a4751a1ly1fpp5rjbwt3j20p0116nkm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/9a4751a1ly1fq1vld84faj20m80xcgpk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/9bd522c1gy1fn429nwz8sg2052086npe.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/a2980b19gy1fqflsbnl7ag207j09o1kz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/e0e4ecc3gy1fqfjaku5z1j20ed0iit9v.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/e0e4ecc3gy1fqi251ssxzj20dc0jlgmc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ea27be0aly1fpjjy6cmv4j20g40lh0u2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ea27be0aly1fpjkgb5ziqj20ku0puq65.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl7160/meinv.py" afterPath="$PROJECT_DIR$/crawl7160/meinv.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawl7160/meinv1.py" afterPath="$PROJECT_DIR$/crawl7160/meinv1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exce.py" afterPath="$PROJECT_DIR$/exce.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qiubaichengren1.py" afterPath="$PROJECT_DIR$/qiubaichengren1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.html" afterPath="$PROJECT_DIR$/tmp.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,80 +174,119 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/spider$senium.coverage" NAME="senium Coverage Results" MODIFIED="1523945286953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
-    <SUITE FILE_PATH="coverage/spider$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1523933498771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
-    <SUITE FILE_PATH="coverage/spider$res.coverage" NAME="res Coverage Results" MODIFIED="1523936398797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/spider$ua.coverage" NAME="ua Coverage Results" MODIFIED="1524642162751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$index.coverage" NAME="index Coverage Results" MODIFIED="1523588978553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$get.coverage" NAME="get Coverage Results" MODIFIED="1523934797653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
     <SUITE FILE_PATH="coverage/spider$qiubai.coverage" NAME="qiubai Coverage Results" MODIFIED="1524473421281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$soup.coverage" NAME="soup Coverage Results" MODIFIED="1523938093086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/spider$xpath_test1.coverage" NAME="xpath_test1 Coverage Results" MODIFIED="1524648337146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$meinv.coverage" NAME="meinv Coverage Results" MODIFIED="1524120825160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
-    <SUITE FILE_PATH="coverage/spider$zhenrenxiu.coverage" NAME="zhenrenxiu Coverage Results" MODIFIED="1523693566247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
     <SUITE FILE_PATH="coverage/spider$meinv1.coverage" NAME="meinv1 Coverage Results" MODIFIED="1524021284837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
-    <SUITE FILE_PATH="coverage/spider$post.coverage" NAME="post Coverage Results" MODIFIED="1523933295748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
-    <SUITE FILE_PATH="coverage/spider$qiubaichengren1.coverage" NAME="qiubaichengren1 Coverage Results" MODIFIED="1524479109738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/spider$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1523691703916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
     <SUITE FILE_PATH="coverage/spider$exce.coverage" NAME="exce Coverage Results" MODIFIED="1524474010364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$ajax.coverage" NAME="ajax Coverage Results" MODIFIED="1524644066294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$re_testg.coverage" NAME="re_testg Coverage Results" MODIFIED="1523937541447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
     <SUITE FILE_PATH="coverage/spider$test.coverage" NAME="test Coverage Results" MODIFIED="1523870844925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
     <SUITE FILE_PATH="coverage/spider$cookie.coverage" NAME="cookie Coverage Results" MODIFIED="1523933564019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
-    <SUITE FILE_PATH="coverage/spider$requests.coverage" NAME="requests Coverage Results" MODIFIED="1523934960962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/spider$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1524544201385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$qiubaichengren.coverage" NAME="qiubaichengren Coverage Results" MODIFIED="1524478297242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$test_chemy.coverage" NAME="test_chemy Coverage Results" MODIFIED="1524553901182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$senium.coverage" NAME="senium Coverage Results" MODIFIED="1523945286953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/spider$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1523933498771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/spider$res.coverage" NAME="res Coverage Results" MODIFIED="1523936398797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/spider$ganji.coverage" NAME="ganji Coverage Results" MODIFIED="1524636922113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$svg1.coverage" NAME="svg1 Coverage Results" MODIFIED="1524640446972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$pygal_test.coverage" NAME="pygal_test Coverage Results" MODIFIED="1524640168312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zhenrenxiu.coverage" NAME="zhenrenxiu Coverage Results" MODIFIED="1523693566247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
+    <SUITE FILE_PATH="coverage/spider$test_sql.coverage" NAME="test_sql Coverage Results" MODIFIED="1524546293728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$post.coverage" NAME="post Coverage Results" MODIFIED="1523933295748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
+    <SUITE FILE_PATH="coverage/spider$qiubaichengren1.coverage" NAME="qiubaichengren1 Coverage Results" MODIFIED="1524533349413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$xpath_test2.coverage" NAME="xpath_test2 Coverage Results" MODIFIED="1524650351320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$xpath_test.coverage" NAME="xpath_test Coverage Results" MODIFIED="1524647723067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1523691703916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
+    <SUITE FILE_PATH="coverage/spider$requests.coverage" NAME="requests Coverage Results" MODIFIED="1523934960962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
     <SUITE FILE_PATH="coverage/spider$xiaohua.coverage" NAME="xiaohua Coverage Results" MODIFIED="1524107590571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl7160" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Meijuspider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movie/movie/spiders/Meijuspider.py">
+      <file leaf-file-name="ganji.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ganji.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+            <state relative-caret-position="54">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pygal_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pygal_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1107">
+              <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exce.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exce.py">
+      <file leaf-file-name="svg1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/svg1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="81">
+              <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ua.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ua.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajax.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
               <folding>
-                <element signature="e#14#23#0" expanded="true" />
+                <element signature="e#14#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qiubaichengren.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qiubaichengren.py">
+      <file leaf-file-name="xpath_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xpath_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="21" selection-end-column="76" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="404">
+              <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qiubaichengren1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/qiubaichengren1.py">
+      <file leaf-file-name="xpath_test1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xpath_test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="458">
+              <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qiubai.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qiubai.py">
+      <file leaf-file-name="xpath_test2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xpath_test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="6" column="85" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="85" />
+            <state relative-caret-position="404">
+              <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -104,11 +295,19 @@
       <file leaf-file-name="tmp.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-              <folding>
-                <marker date="1524477516183" expanded="true" signature="10677:10684" ph="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proxy_ip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy_ip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,6 +324,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>timedelta64</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -133,13 +333,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/img/main.py" />
-        <option value="$PROJECT_DIR$/img/client.py" />
-        <option value="$PROJECT_DIR$/img/mains.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/b/__init__.py" />
-        <option value="$PROJECT_DIR$/index.py" />
-        <option value="$PROJECT_DIR$/b/download.py" />
         <option value="$PROJECT_DIR$/crawl7160/download.py" />
         <option value="$PROJECT_DIR$/crawl7160/parser.py" />
         <option value="$PROJECT_DIR$/crawl7160/downloader.py" />
@@ -178,6 +371,19 @@
         <option value="$PROJECT_DIR$/exce.py" />
         <option value="$PROJECT_DIR$/qiubaichengren.py" />
         <option value="$PROJECT_DIR$/qiubaichengren1.py" />
+        <option value="$PROJECT_DIR$/mysql.py" />
+        <option value="$PROJECT_DIR$/test_sql.py" />
+        <option value="$PROJECT_DIR$/test_chemy.py" />
+        <option value="$PROJECT_DIR$/ganji.py" />
+        <option value="$PROJECT_DIR$/pygal_test.py" />
+        <option value="$PROJECT_DIR$/svg1.py" />
+        <option value="$PROJECT_DIR$/proxy_ip.py" />
+        <option value="$PROJECT_DIR$/ua.py" />
+        <option value="$PROJECT_DIR$/ajax.py" />
+        <option value="$PROJECT_DIR$/tmp.html" />
+        <option value="$PROJECT_DIR$/xpath_test.py" />
+        <option value="$PROJECT_DIR$/xpath_test1.py" />
+        <option value="$PROJECT_DIR$/xpath_test2.py" />
       </list>
     </option>
   </component>
@@ -211,6 +417,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,7 +430,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,8 +456,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.qiubaichengren1">
-    <configuration name="exce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.xpath_test2">
+    <configuration name="ajax" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -264,30 +470,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ajax.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="meinv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawl7160" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spider" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl7160/meinv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="qiubai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ua" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -300,12 +488,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qiubai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ua.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="qiubaichengren" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="xpath_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -318,12 +506,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qiubaichengren.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xpath_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="qiubaichengren1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="xpath_test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -336,25 +524,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qiubaichengren1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xpath_test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="xpath_test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="spider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xpath_test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.meinv" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exce" />
-      <item index="2" class="java.lang.String" itemvalue="Python.qiubaichengren" />
-      <item index="3" class="java.lang.String" itemvalue="Python.qiubai" />
-      <item index="4" class="java.lang.String" itemvalue="Python.qiubaichengren1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ua" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ajax" />
+      <item index="2" class="java.lang.String" itemvalue="Python.xpath_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.xpath_test1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.xpath_test2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.qiubaichengren1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.qiubaichengren" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exce" />
-        <item index="3" class="java.lang.String" itemvalue="Python.qiubai" />
-        <item index="4" class="java.lang.String" itemvalue="Python.meinv" />
+        <item index="0" class="java.lang.String" itemvalue="Python.xpath_test2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.xpath_test1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.xpath_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ajax" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ua" />
       </list>
     </recent_temporary>
   </component>
@@ -373,17 +579,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1391258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14232409" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -408,58 +615,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/mains.py" />
-    <entry file="file://$PROJECT_DIR$/main.py" />
-    <entry file="file://$PROJECT_DIR$/b/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/index.py" />
-    <entry file="file://$PROJECT_DIR$/b/download.py" />
-    <entry file="file://$PROJECT_DIR$/crawl7160/download.py" />
-    <entry file="file://$PROJECT_DIR$/crawl7160/outputer.py" />
-    <entry file="file://$PROJECT_DIR$/crawl7160/parser.py" />
-    <entry file="file://$PROJECT_DIR$/crawl7160/xiaohua.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl7160/qingchunmeinv.py" />
-    <entry file="file://$PROJECT_DIR$/crawl7160/downloader.py" />
-    <entry file="file://$PROJECT_DIR$/crawl7160/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl7160/lianglichemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl7160/rentiyishu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl7160/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl7160/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawl7160/test4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -531,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl7160/meinv2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawl7160/meinv4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -563,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,9 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#27#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -597,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,9 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="74" column="7" lean-forward="false" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
-          <folding>
-            <marker date="1523870968836" expanded="true" signature="1046:1093" ph="INSERT INTO imgs... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="681">
           <caret line="91" column="54" lean-forward="false" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="921">
           <caret line="77" column="5" lean-forward="false" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,75 +781,192 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-          <folding>
-            <marker date="1524477516183" expanded="true" signature="10677:10684" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exce.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="81">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/4a3ecd39ly1fqlgkf7nzuj20sw0xbad0.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/8a3af135ly1fmgq0agoxpj20s40zae81.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/66c4947egy1fql6firn7hg209p0gjhdz.gif" />
+    <entry file="file://$PROJECT_DIR$/images/0073ob6Pgy1fplpgxaemuj31kw23v1kx.jpg" />
+    <entry file="file://$PROJECT_DIR$/qiubaichengren.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="15" selection-end-column="39" />
           <folding>
-            <element signature="e#14#23#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/4a3ecd39ly1fqlgkf7nzuj20sw0xbad0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/8a3af135ly1fmgq0agoxpj20s40zae81.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/66c4947egy1fql6firn7hg209p0gjhdz.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/0073ob6Pgy1fplpgxaemuj31kw23v1kx.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py" />
     <entry file="file://$PROJECT_DIR$/qiubai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
+        <state relative-caret-position="162">
           <caret line="6" column="85" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="85" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qiubaichengren.py">
+    <entry file="file://D:/anacanda/Lib/site-packages/sqlalchemy/dialects/mysql/mysqlconnector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="21" selection-end-column="76" />
+        <state relative-caret-position="2970">
+          <caret line="115" column="21" lean-forward="false" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl7160/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="18" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#14#27#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl7160/meinv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_chemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding>
+            <element signature="e#14#85#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="30" column="15" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="e#14#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacanda/Lib/site-packages/sqlalchemy/engine/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="97" column="4" lean-forward="false" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/qiubaichengren1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="837">
+          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/die_visual.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-999">
+          <caret line="2" column="1067" lean-forward="false" selection-start-line="2" selection-start-column="1067" selection-end-line="2" selection-end-column="1067" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygal_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ganji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpath_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpath_test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xpath_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
