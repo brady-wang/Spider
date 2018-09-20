@@ -1,5 +1,5 @@
 # *_*coding:utf-8 *_*
-from baidu_baike import downloader, outputer, url_manager, parser
+from baidu_baike_sqlite3 import downloader, outputer, url_manager, parser
 
 
 class SpiderMain(object):
@@ -12,7 +12,7 @@ class SpiderMain(object):
 
     def crawl(self, root_url):
         count = 1
-        max_count = 100000
+        max_count = 100
         self.url_manager.add_new_url(root_url)
         while self.url_manager.has_new_url():
             try:

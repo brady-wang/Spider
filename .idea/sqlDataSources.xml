@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="60ccf85a-a3e0-403d-9062-fbd1786186d7" />
+          <option name="name" value="imgs" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/crawl7160/imgs.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
