@@ -12,7 +12,7 @@ class SpiderMain(object):
 
     def crawl(self, root_url):
         count = 1
-        max_count = 3
+        max_count = 1000
         self.url_manager.add_new_url(root_url)
         while self.url_manager.has_new_url():
             try:
@@ -21,8 +21,6 @@ class SpiderMain(object):
                 content = self.downloader.Download(new_url)
 
                 new_urls,new_data = self.parser.parse(content,new_url)
-                print(new_urls)
-                print(new_data)
                 self.url_manager.add_new_urls(new_urls)
                 self.outputer.collect_data(new_url,new_data)
 

@@ -29,7 +29,8 @@ class Parser(object):
         title = tree.xpath("//dd[@class='lemmaWgt-lemmaTitle-title']/h1/text()")
         title = ",".join(title)
 
-        desc = tree.xpath("//dd[@class='lemmaWgt-lemmaTitle-title']/h1/text()")
+        desc = tree.xpath("//div[@class='lemma-summary']/div[@class='para']/text()")
+        desc  = ','.join(desc)
+        data  = {'title':title,'desc':desc,'url':page_url}
 
-        data  = {'title':title,'desc':desc}
         return data

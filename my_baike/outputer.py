@@ -11,6 +11,12 @@ class Outputer(object):
 
     def save_to_file(self):
          print(self.data)
+         fout = open('output.html','w',encoding='utf-8');
+         fout.write('<html><head><meta charset="utf-8"></head>')
+         for item in self.data:
+             fout.write("<a href = '%s' target='_blank'> %s </a>" % ( item['url'], item['title'] ))
+             fout.write("<p> %s </p>" % item['desc'])
+         fout.write("</body></html>")
 
 
 
