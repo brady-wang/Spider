@@ -15,18 +15,26 @@ class Parser(object):
     def get_new_url(self, content,page_url):
         tree = etree.HTML(content)
         new_urls = set()
+<<<<<<< HEAD
         new_links = tree.xpath("//a/@href")
+=======
+        new_links = tree.xpath("/html/body//div[@class='main-content']//a[contains(@href,'/item')]/@href")
+>>>>>>> 069d225b498d4ce3c199324fad03bb6a2ee1d884
         if len(new_links) < 0:
             return None
         for new_url in new_links:
             new_full_url = urllib.parse.urljoin(page_url, new_url)
+<<<<<<< HEAD
             #print(new_full_url)
+=======
+>>>>>>> 069d225b498d4ce3c199324fad03bb6a2ee1d884
             new_urls.add(new_full_url)
         print("获取到"+ str(len(new_urls))+"个新的url:")
         return new_urls
 
     def get_new_data(self, content,page_url):
         tree = etree.HTML(content)
+<<<<<<< HEAD
         title = tree.xpath("//div[@class='picmainer']/h1/text()")
         title = ",".join(title)
 
@@ -35,4 +43,13 @@ class Parser(object):
         print(url)
         data  = {'title':title,'url':url}
         print(data)
+=======
+        title = tree.xpath("//dd[@class='lemmaWgt-lemmaTitle-title']/h1/text()")
+        title = ",".join(title)
+
+        desc = tree.xpath("//div[@class='lemma-summary']/div[@class='para']/text()")
+        desc  = ','.join(desc)
+        data  = {'title':title,'desc':desc,'url':page_url}
+
+>>>>>>> 069d225b498d4ce3c199324fad03bb6a2ee1d884
         return data
