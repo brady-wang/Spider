@@ -1,9 +1,7 @@
 # *_*coding:utf-8 *_*
-<<<<<<< HEAD
+
 from img_7160 import downloader, outputer, url_manager, parser
-=======
-from baidu_baike import downloader, outputer, url_manager, parser
->>>>>>> 069d225b498d4ce3c199324fad03bb6a2ee1d884
+
 
 
 class SpiderMain(object):
@@ -16,11 +14,9 @@ class SpiderMain(object):
 
     def crawl(self, root_url):
         count = 1
-<<<<<<< HEAD
+
         max_count = 10000000
-=======
-        max_count = 10000
->>>>>>> 069d225b498d4ce3c199324fad03bb6a2ee1d884
+
         self.url_manager.add_new_url(root_url)
         while self.url_manager.has_new_url():
             try:
@@ -37,18 +33,13 @@ class SpiderMain(object):
                 count = count + 1
             except Exception as e:
                 print("错误:"+str(e))
-<<<<<<< HEAD
+
+
 
 
 if __name__ == "__main__":
     print("crawl start:")
-    root_url = "http://www.7160.com";
-=======
-        self.outputer.save_to_file()
-
-if __name__ == "__main__":
-    print("crawl start:")
-    root_url = "https://baike.baidu.com/item/Python/407313";
->>>>>>> 069d225b498d4ce3c199324fad03bb6a2ee1d884
-    spider =  SpiderMain()
+    root_url = "http://www.7160.com"
+    spider = SpiderMain()
     spider.crawl(root_url)
+
