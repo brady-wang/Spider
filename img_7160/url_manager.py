@@ -23,7 +23,7 @@ class UrlManager(object):
         if len(self.new_urls) == 0 :
             return None
         else:
-            return True
+            return True 
 
 
     def get_new_url(self):
