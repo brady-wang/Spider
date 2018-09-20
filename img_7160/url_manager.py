@@ -8,7 +8,8 @@ class UrlManager(object):
     def add_new_url(self,url):
         if url is None:
             return None
-        if url not in self.new_urls and url not in self.old_urls:
+        str = '7160'
+        if url not in self.new_urls and url not in self.old_urls and str in url:
             self.new_urls.add(url)
 
     def add_new_urls(self,urls):
